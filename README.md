@@ -4,8 +4,8 @@
 * Le **16 décembre 2021 de 9h à 12h (3h)**
 * Arbitrage par **Yanne VALLETTE**
 
-## [MonCO2 (GitHub Pages)](https://pierrelaurent94.github.io/SNIR_Cup/)
+## [MonCO2 (GitHub Pages • https://pierrelaurent94.github.io/SNIR_Cup/)](https://pierrelaurent94.github.io/SNIR_Cup/)
 
-[MonCO2 est une application permettant d'estimer vos émissions journalière de CO2 en provenance de votre alimentation et de votre consommation électrique, et ce dans l'optique de vous aidez à les réduire.
+[**MonCO2** est une application permettant d'estimer vos émissions journalière de CO2 en provenance de votre alimentation et de votre consommation électrique, et ce dans l'optique de vous aidez à les réduire.
 ](https://pierrelaurent94.github.io/SNIR_Cup/)
 
